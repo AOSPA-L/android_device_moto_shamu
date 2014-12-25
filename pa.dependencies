@@ -1,9 +1,9 @@
 [
     {
-        "remote":       "aosp",
-        "repository":   "device/moto/shamu-kernel",
-        "target_path":  "device/moto/shamu-kernel",
-        "revision":     "refs/tags/android-5.0.2_r1"
+        "remote":       "github",
+        "repository":   "Ayysir/android_kernel_motorola_shamu",
+        "target_path":  "kernel/motorola/shamu",
+        "revision":     "lollipop"
     },
     {
         "remote":       "aosp",
