@@ -78,7 +78,7 @@
         "revision":     "cm-12.0"
     },
     {
-        "remote":       "blobs",
+        "remote":       "blobs-aospa",
         "repository":   "proprietary_vendor_motorola_shamu",
         "target_path":  "vendor/motorola/shamu",
         "revision":     "lollipop"
